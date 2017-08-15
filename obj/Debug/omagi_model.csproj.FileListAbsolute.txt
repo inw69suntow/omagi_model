@@ -1,0 +1,4 @@
+F:\กอรมน\omagi\Bin\omagi_model.dll
+F:\กอรมน\omagi\Bin\omagi_model.pdb
+F:\กอรมน\omagi_model\obj\Debug\omagi_model.dll
+F:\กอรมน\omagi_model\obj\Debug\omagi_model.pdb
