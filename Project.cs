@@ -7,17 +7,17 @@ namespace omagi_model
 {
     public class Project
     {
-        private String Fl_id {get;set;}
-        private String GroupName { get; set; }
-        private String ParentName { get; set; }
-        private String MainGroupId { get; set; }
-        private String MainGroupName { get; set; }
-        private String ProvinceName { get; set; }
-        private String DeptName { get; set; }
-        private String ReportMember { get; set; }
-        private String Fl_dept { get; set; }
-        private String ParentId { get; set; }
-        private int Level { get; set; }
+        public String Fl_id {get;set;}
+        public String GroupName { get; set; }
+        public String ParentName { get; set; }
+        public String MainGroupId { get; set; }
+        public String MainGroupName { get; set; }
+        public String ProvinceName { get; set; }
+        public String DeptName { get; set; }
+        public String ReportMember { get; set; }
+        public String Fl_dept { get; set; }
+        public String ParentId { get; set; }
+        public int Level { get; set; }
 
 
     }
